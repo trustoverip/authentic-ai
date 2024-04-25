@@ -1,22 +1,15 @@
-# Specification Template
+# Authentic AI
 
-This is the working area for the Trust over IP specification template.
+This is the working area for the Authentic AI specification currently being developed in the AIM Task Force.
 
-* [Editor's Copy](https://trustoverip.github.io/specification-template/)
+* [Editor's Copy](https://trustoverip.github.io/authentic-ai/)
 
-## Using this template
+## Participating in this project
 
-Two ways to use the template:
-* The green `Use this template` button in the upper right. Then select `Create new repository` or
-* When creating a new repository from the `Repository template` menu select `toip/specification-template`
-
-After setting up your new repository you will need to configure GitHub pages.
-
-Under `Settings -> Code and automation -> Pages` ensure the following settings are applied
-
-* Build and deployment -> Source -> Deploy from a branch
-* Build and deployment -> Branch -> gh-pages
-* Build and deployment -> Branch -> folder -> / (root)
+* The Task Force's wiki: https://wiki.trustoverip.org/pages/viewpage.action?pageId=19657312
+* To join our bi-weekly meetings: https://wiki.trustoverip.org/display/HOME/Meeting+Minutes
+* Slack: https://trustoverip.slack.com, channel: #tswg-aim-tf
+* Join/propose Discussions, Write Issues, Contribute Use Cases...
 
 ### Editing locally
 
